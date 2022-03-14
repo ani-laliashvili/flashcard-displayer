@@ -6,8 +6,7 @@ import java.time.format.DateTimeFormatter;
 import java.io.PrintWriter;
 
 
-/* @author Ani Laliashvili
-   @author Sarah Gregory */
+/* @author Ani Laliashvili */
 
 public class FlashcardDisplayer {
     public FlashcardPriorityQueue queue;

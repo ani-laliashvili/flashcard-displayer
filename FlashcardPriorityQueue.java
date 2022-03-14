@@ -1,7 +1,6 @@
 import java.util.NoSuchElementException;
 
-/* @author Ani Laliashvili
-   @author Sarah Gregory */
+/* @author Ani Laliashvili*/
 public class FlashcardPriorityQueue implements PriorityQueue<Flashcard>{
    private Flashcard[] heap; // Array of heap entries; ignore heap[0]
    private int lastIndex; // Index of last entry and number of entries

@@ -1,5 +1,4 @@
-/* @author Ani Laliashvili
-   @author Sarah Gregory */
+/* @author Ani Laliashvili */
 
 import java.time.format.DateTimeFormatter;
 import java.time.LocalDateTime;
